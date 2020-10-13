@@ -9,7 +9,7 @@ Peripherals are external devices that provide input or output signals for the ma
 
 ### Defination
 General-purpose input/output (GPIO) is a status of input/output (I/O) to, and the name for, an uncommitted digital signal pin on an integrated circuit or electronic circuit board which behavior, including whether it acts as input or output, is controllable by the user at runtime.
-<br><img src="05outputs.png" alt="test image size" height="50%" width="50%"><br>
+<br><div style="text-align:center"><img src="05outputs.png" alt="test image size" height="50%" width="50%"><br>
 
 
 ### Push-pull Mode
